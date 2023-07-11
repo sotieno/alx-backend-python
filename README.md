@@ -1,8 +1,7 @@
-# 0x00. Python - Variable Annotations
+# Backend Specialization - Python
 
-## Learning Objectives
+## Projects
 
-* Type annotations in Python 3
-* How you can use type annotations to specify function signatures and variable types
-* Duck typing
-* How to validate your code with mypy
+* [0x00-python_variable_annotations](0x00-python_variable_annotations)
+
+
