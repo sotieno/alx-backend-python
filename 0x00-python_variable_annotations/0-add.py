@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 Function add that takes floats a and b as arguments
 '''
